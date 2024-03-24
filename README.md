@@ -1,6 +1,6 @@
 # Parking-Spot-reservation
 
-This is a mobile app that allows users to reserve, book, and review parking spots in advance. The app aims to help users save time and hassle by allowing them to reserve a parking spot ahead of time, book it for longer periods of time, and review spots they've parked in to help others make informed decisions.
+This is a mobile app that allows users to reserve, book, and review parking spots in advance. The app aims to help users save time and hassle by allowing them to reserve a parking spot ahead of time, book it for longer periods of time, and review spots they've parked in to help others make informed decision.
 
 ## Features
 
